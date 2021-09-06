@@ -8,7 +8,7 @@ Nuestro aplicación podrá recoger información personal por ejemplo: ubicacion.
 
 <b>Uso de la información recogida</b>
 
-Nuestro apliación emplea la información con el fin de proporcionar el mejor servicio posible, esta informacion no es almacenada, ni compartida con terceros.
+Nuestro aplicación emplea la información con el fin de proporcionar el mejor servicio posible, esta informacion no es almacenada, ni compartida con terceros.
 
 Bilbomatica está altamente comprometido para cumplir con el compromiso de mantener su información segura. Usamos los sistemas más avanzados y los actualizamos constantemente para asegurarnos que no exista ningún acceso no autorizado.
 
